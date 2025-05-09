@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-=========
+======
 
 * B.Eng. in Computer Science, Harbin Institute of Technology, Shenzhen, 2026 (expected)
 
