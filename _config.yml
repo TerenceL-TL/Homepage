@@ -9,7 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
+<<<<<<< HEAD
 title                    : "Homepage"
+=======
+title                    : "Zitao Li / Terence Lee"
+>>>>>>> 020d700d7b94a04156b127a415e7e93d5fd14c54
 title_separator          : "-"
 name                     : &name "Zitao Li"
 description              : &description "HITsz Junior Student"
