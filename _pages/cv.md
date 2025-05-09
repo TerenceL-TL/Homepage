@@ -14,5 +14,7 @@ Education
 * B.Eng. in Computer Science, Harbin Institute of Technology, Shenzhen, 2026 (expected)
 
 Publications
-============
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
